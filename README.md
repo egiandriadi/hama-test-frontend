@@ -1,3 +1,5 @@
+[3784496a-3731-4c2c-bc61-f9cf0ee61be7.webm](https://github.com/user-attachments/assets/91391e61-eaed-49a1-981f-0d060b71264e)
+
 # Technical Test - Task Management UI
 
 A premium, responsive Task Management application built with **Vue 3**, **Vite**, and **TypeScript**. This project integrates with a Laravel-based REST API and provides a seamless user experience for managing daily tasks.
